@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/facebook-dashboard-clone/static/css/main.ee23a0eb.chunk.css",
-    "main.js": "/facebook-dashboard-clone/static/js/main.560b83e5.chunk.js",
-    "main.js.map": "/facebook-dashboard-clone/static/js/main.560b83e5.chunk.js.map",
+    "main.css": "/facebook-dashboard-clone/static/css/main.b1be4eeb.chunk.css",
+    "main.js": "/facebook-dashboard-clone/static/js/main.bccf56df.chunk.js",
+    "main.js.map": "/facebook-dashboard-clone/static/js/main.bccf56df.chunk.js.map",
     "runtime-main.js": "/facebook-dashboard-clone/static/js/runtime-main.643a8d81.js",
     "runtime-main.js.map": "/facebook-dashboard-clone/static/js/runtime-main.643a8d81.js.map",
     "static/js/2.f5fe7cc0.chunk.js": "/facebook-dashboard-clone/static/js/2.f5fe7cc0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.74288646.chunk.js": "/facebook-dashboard-clone/static/js/3.74288646.chunk.js",
     "static/js/3.74288646.chunk.js.map": "/facebook-dashboard-clone/static/js/3.74288646.chunk.js.map",
     "index.html": "/facebook-dashboard-clone/index.html",
-    "static/css/main.ee23a0eb.chunk.css.map": "/facebook-dashboard-clone/static/css/main.ee23a0eb.chunk.css.map",
+    "static/css/main.b1be4eeb.chunk.css.map": "/facebook-dashboard-clone/static/css/main.b1be4eeb.chunk.css.map",
     "static/js/2.f5fe7cc0.chunk.js.LICENSE.txt": "/facebook-dashboard-clone/static/js/2.f5fe7cc0.chunk.js.LICENSE.txt",
     "static/media/FacebookLogo.e764da59.png": "/facebook-dashboard-clone/static/media/FacebookLogo.e764da59.png",
     "static/media/demoProfile.a5c3e9e3.jpg": "/facebook-dashboard-clone/static/media/demoProfile.a5c3e9e3.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.643a8d81.js",
     "static/js/2.f5fe7cc0.chunk.js",
-    "static/css/main.ee23a0eb.chunk.css",
-    "static/js/main.560b83e5.chunk.js"
+    "static/css/main.b1be4eeb.chunk.css",
+    "static/js/main.bccf56df.chunk.js"
   ]
 }

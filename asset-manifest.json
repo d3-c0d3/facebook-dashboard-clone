@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/facebook-dashboard-clone/static/css/main.fe5a70fe.chunk.css",
+    "main.js": "/facebook-dashboard-clone/static/js/main.578900fb.chunk.js",
+    "main.js.map": "/facebook-dashboard-clone/static/js/main.578900fb.chunk.js.map",
+    "runtime-main.js": "/facebook-dashboard-clone/static/js/runtime-main.643a8d81.js",
+    "runtime-main.js.map": "/facebook-dashboard-clone/static/js/runtime-main.643a8d81.js.map",
+    "static/js/2.f5fe7cc0.chunk.js": "/facebook-dashboard-clone/static/js/2.f5fe7cc0.chunk.js",
+    "static/js/2.f5fe7cc0.chunk.js.map": "/facebook-dashboard-clone/static/js/2.f5fe7cc0.chunk.js.map",
+    "static/js/3.74288646.chunk.js": "/facebook-dashboard-clone/static/js/3.74288646.chunk.js",
+    "static/js/3.74288646.chunk.js.map": "/facebook-dashboard-clone/static/js/3.74288646.chunk.js.map",
+    "index.html": "/facebook-dashboard-clone/index.html",
+    "static/css/main.fe5a70fe.chunk.css.map": "/facebook-dashboard-clone/static/css/main.fe5a70fe.chunk.css.map",
+    "static/js/2.f5fe7cc0.chunk.js.LICENSE.txt": "/facebook-dashboard-clone/static/js/2.f5fe7cc0.chunk.js.LICENSE.txt",
+    "static/media/FacebookLogo.e764da59.png": "/facebook-dashboard-clone/static/media/FacebookLogo.e764da59.png",
+    "static/media/demoProfile.a5c3e9e3.jpg": "/facebook-dashboard-clone/static/media/demoProfile.a5c3e9e3.jpg",
+    "static/media/Searchbar.module.css": "/facebook-dashboard-clone/static/media/searchicon.e4f631ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.643a8d81.js",
+    "static/js/2.f5fe7cc0.chunk.js",
+    "static/css/main.fe5a70fe.chunk.css",
+    "static/js/main.578900fb.chunk.js"
+  ]
+}

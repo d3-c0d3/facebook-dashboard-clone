@@ -1,0 +1,117 @@
+.titleContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.title{
+    width: 61%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+}
+.userNaudianceInfo h3{
+    margin: 0;
+
+}
+.userNaudianceInfo{
+    /* border: 1px solid black; */
+    display: flex;
+}
+.postBody textarea {
+    border: none;
+    outline: none;
+    margin-top: .5rem;
+    width:90%;
+}
+.postBody textarea::placeholder{
+   /*  padding-top: .5rem; */
+    font-size: 1.4rem;
+}
+
+.BackgroundNemoji{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.postContent{
+    display: flex;
+    justify-content: center;
+}
+.postContent img{
+    width: 320px;
+}
+.emoji{
+    width:28px;
+    border-radius:50%;
+    cursor:pointer;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 2px rgb(190, 189, 189);
+    margin-bottom: 5px;
+}
+.emoji:hover{
+    transform: rotate(360deg);
+    transition-duration: .2s;
+}
+
+.AllActivities{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(199, 199, 201);
+    border-radius: 5px;
+    padding: 15px;
+    align-items: center;
+}
+.postHelper{
+    width: 30%;
+    display: flex;
+
+}
+.postOptions{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.postHelper span{
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.postOptions img{
+    cursor: pointer;
+    padding: 5px;
+    /* border: 1px solid rgb(199, 199, 199); */
+    border-radius: 50%;
+}
+.postOptions img:hover{
+    background-color: rgba(190, 190, 190, 0.356);
+}
+.postBtn{
+    width: 100%;
+    margin-top: 5px;
+    border: none;
+  background-color: #1771E6;
+    padding: 5px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.postBtn:disabled{
+    background-color: rgb(185, 185, 185);
+    width: 100%;
+    margin-top: 5px;
+    border: none;
+
+    padding: 5px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: white;
+    border-radius: 5px;
+    cursor: not-allowed;
+}

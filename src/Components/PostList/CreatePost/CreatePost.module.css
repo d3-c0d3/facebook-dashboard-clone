@@ -1,0 +1,57 @@
+.CreatePost{
+    width: 80%;
+    display: flex;
+    border-radius: 5px;
+   box-sizing: border-box;
+   box-shadow: 2px 2px 3px rgb(197, 197, 197);
+    flex-direction: column;
+/*     border: 1px solid rgb(170, 170, 170); */
+    align-items: center;
+/*     margin-top: 60px; */
+}
+
+.WritePost{
+    width: 100%;
+    display: flex;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+    align-items: center;
+    justify-content: space-between;
+}
+.ActivateInput{
+    
+    height: 35px;
+    border-radius: 30px;
+    /* padding: 5px; */
+    outline: none;
+    border: none;
+    background-color: #f2f2f3;
+    width: 90%;
+    cursor: pointer;
+    margin-right: 7px;
+}
+.ActivateInput h2{
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    color: #606276;
+}
+.dividerHorizontal{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 96%;
+
+    border-bottom: .5px solid rgb(149, 151, 151);
+}
+.Activities{
+    display: flex;
+    margin-bottom: 3px;
+}
+.ActivateInput:hover{
+    background-color:#e0e0e0 ;
+}

@@ -1,0 +1,118 @@
+.post{
+    width: 100%;
+    border: 1px solid rgb(226, 224, 224);
+    margin-top: -3.8rem;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 1px rgb(219, 219, 219) ;
+}
+.userNaudianceInfo h3{
+    margin: 0;
+
+}
+.userNaudianceInfo{
+    /* border: 1px solid black; */
+    margin-top: 5px;
+    margin-left: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+.reactionCounter{
+    margin-left: 5px;
+    font-size: .9rem;
+}
+.postInfoContainer{
+    display: flex;
+}
+.audianceContainer{
+    display: flex;
+}
+.reactionContainer{
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(194, 194, 194);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+
+}
+.reaction{
+    width: 45%;
+    text-align: center;
+    cursor: pointer;
+    color: #606266;
+    font-weight: 600;
+    /* border: 1px solid rgb(196, 195, 195); */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.reacted{
+    color: #2D99FC;
+    width: 45%;
+    text-align: center;
+    cursor: pointer;
+    
+    font-weight: 600;
+    /* border: 1px solid rgb(196, 195, 195); */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.reaction:hover{
+    background-color: #F2F2F2;
+}
+.menu{
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.postdata{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+}
+.comment{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ImgIconContainer{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #d3d5d8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px ;
+}
+.ImgIconContainer img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.commentText{
+
+    width: 90%;
+    
+}
+.commentText input{
+    padding: 8px;
+    width: 100%;
+    border-radius: 15px;
+    border:1px solid #F0F2F5;
+    outline: none;
+    background-color: #F0F2F5;
+    font-size: 1rem;
+    caret-color: #606266;
+}
+.commentText input::placeholder{
+   color: #606266;
+}
